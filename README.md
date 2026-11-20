@@ -5,7 +5,7 @@
 
 Building intelligent AI applications that turn complex business processes into automated solutions.
 
-I teach machines to understand humans. Still working on teaching humans to write proper requirements. 😂
+> I teach machines to understand humans. Still working on teaching humans to write proper requirements. 😂
 
 ---
 
@@ -27,9 +27,9 @@ My current interests include:
 - ☁️ AWS & Cloud AI
 - 🚀 Production AI Systems
 
-Basically, I spend my time making LLMs answer business questions.
-
-Sometimes they answer correctly. Sometimes they answer confidently. That's why we need validation. 😭
+> Basically, I spend my time making LLMs answer business questions.
+>
+> Sometimes they answer correctly. Sometimes they answer confidently. That's why we need validation. 😭
 
 ---
 
@@ -47,11 +47,11 @@ Sometimes they answer correctly. Sometimes they answer confidently. That's why w
 - LangGraph
 - LangSmith
 
-LLM: "I have generated the answer."
-
-Me: "Did you verify it?"
-
-LLM: "Let's not get into unnecessary details." 😂
+> LLM: "I have generated the answer."
+>
+> Me: "Did you verify it?"
+>
+> LLM: "Let's not get into unnecessary details." 😂
 
 ### 🔍 RAG & Intelligent Search
 
@@ -66,9 +66,9 @@ LLM: "Let's not get into unnecessary details." 😂
 - Retrieval Optimization
 - Hallucination Reduction
 
-Take a 500-page banking document, split it into chunks, generate embeddings, search for relevant information and give it to an LLM.
-
-Basically, teaching AI to read documents before answering questions. Something we should all do. 😂
+> Take a 500-page banking document, split it into chunks, generate embeddings, search for relevant information and give it to an LLM.
+>
+> Basically, teaching AI to read documents before answering questions. Something we should all do. 😂
 
 ### 🧠 Agentic AI
 
@@ -82,9 +82,9 @@ Basically, teaching AI to read documents before answering questions. Something w
 - Human-in-the-Loop
 - Workflow Validation
 
-One LLM wasn't enough to handle the workload.
-
-So I hired multiple AI agents, gave each one a responsibility and now I have to manage an entire AI team. 😂
+> One LLM wasn't enough to handle the workload.
+>
+> So I hired multiple AI agents, gave each one a responsibility and now I have to manage an entire AI team. 😂
 
 ### 🐍 Backend & API Development
 
@@ -95,11 +95,11 @@ So I hired multiple AI agents, gave each one a responsibility and now I have to 
 - API Integration
 - Backend Services
 
-Frontend: "The API isn't working."
-
-Backend: "It works on my machine."
-
-Me: "Have you tried checking the request payload?" 😌
+> Frontend: "The API isn't working."
+>
+> Backend: "It works on my machine."
+>
+> Me: "Have you tried checking the request payload?" 😌
 
 ### ☁️ Cloud & DevOps
 
@@ -113,13 +113,13 @@ Me: "Have you tried checking the request payload?" 😌
 - Git & GitHub
 - CI/CD Pipelines
 
-Developer: "Everything is working perfectly."
-
-Production: "I have other plans." 💀
-
-Docker: "Don't worry. I'll make sure it works everywhere."
-
-AWS Billing: "And I'll make sure you remember it." 😂
+> Developer: "Everything is working perfectly."
+>
+> Production: "I have other plans." 💀
+>
+> Docker: "Don't worry. I'll make sure it works everywhere."
+>
+> AWS Billing: "And I'll make sure you remember it." 😂
 
 ### 📊 Data Engineering
 
@@ -134,15 +134,13 @@ AWS Billing: "And I'll make sure you remember it." 😂
 - Data Warehousing
 - Power BI
 
-Data Engineering is simple:
-
-Extract the data.
-
-Transform the data.
-
-Load the data.
-
-Then spend the next three hours finding out why the record count doesn't match. 🤦
+> Extract the data.
+>
+> Transform the data.
+>
+> Load the data.
+>
+> Then spend the next three hours finding out why the record count doesn't match. 🤦
 
 ---
 
@@ -169,13 +167,13 @@ An Agentic AI-powered platform designed to assist credit teams in analyzing loan
 
 `Python` `LangGraph` `LangChain` `Amazon Bedrock` `Amazon Nova Pro` `OpenSearch` `AWS Textract` `Snowflake` `MCP` `FastAPI` `LangSmith` `Docker` `AWS ECS`
 
-Credit Analyst: "Can you review these 100 documents?"
-
-AI Agents: "We are on it."
-
-Me: "Please don't hallucinate a borrower's financial details."
-
-AI Agents: "We make no promises." 😭😂
+> Credit Analyst: "Can you review these 100 documents?"
+>
+> AI Agents: "We are on it."
+>
+> Me: "Please don't hallucinate a borrower's financial details."
+>
+> AI Agents: "We make no promises." 😭😂
 
 ### 🔎 2. Generative AI Banking Policy & Customer Query Assistant
 
@@ -198,15 +196,15 @@ A RAG-powered chatbot that answers banking policy and loan product questions usi
 
 `Python` `LangChain` `Amazon Bedrock` `RAG` `OpenSearch` `Amazon Titan` `OpenAI Embeddings` `FastAPI` `Docker` `AWS ECS`
 
-User: "What is the eligibility criteria for this loan?"
-
-Chatbot: "Here is the answer based on the banking policy."
-
-User: "Are you sure?"
-
-Chatbot: "Let me show you the source."
-
-Finally, an AI that knows where it got its information. 😂
+> User: "What is the eligibility criteria for this loan?"
+>
+> Chatbot: "Here is the answer based on the banking policy."
+>
+> User: "Are you sure?"
+>
+> Chatbot: "Let me show you the source."
+>
+> Finally, an AI that knows where it got its information. 😂
 
 ### 📊 3. Snowflake ELT & Corporate Treasury Analytics
 
@@ -229,15 +227,15 @@ A data engineering solution focused on processing financial data and supporting 
 
 `Snowflake` `SQL` `Python` `AWS DMS` `Amazon S3` `dbt` `Snowpark` `Airflow` `Terraform` `Power BI`
 
-Business Team: "We need accurate financial reports."
-
-Data Engineer: "Sure."
-
-SQL Query: "I found 10 million records."
-
-Data Engineer: "Why are 2 million missing?"
-
-SQL Query: "That's a great question." 🤦😂
+> Business Team: "We need accurate financial reports."
+>
+> Data Engineer: "Sure."
+>
+> SQL Query: "I found 10 million records."
+>
+> Data Engineer: "Why are 2 million missing?"
+>
+> SQL Query: "That's a great question." 🤦😂
 
 ---
 
@@ -283,7 +281,7 @@ The goal is to make sure the AI application:
 - Handles failures gracefully.
 - Keeps humans involved when necessary.
 
-Because sending an LLM response directly to production without validation is a very creative way to create a production incident. 💀
+> Because sending an LLM response directly to production without validation is a very creative way to create a production incident. 💀
 
 ---
 
@@ -298,13 +296,13 @@ Because sending an LLM response directly to production without validation is a v
 - AI Security & Guardrails
 - Production AI System Design
 
-The AI world moves so fast.
-
-Learn one framework today.
-
-Discover three alternatives tomorrow.
-
-Update your LinkedIn skills next week. 😂
+> The AI world moves so fast.
+>
+> Learn one framework today.
+>
+> Discover three alternatives tomorrow.
+>
+> Update your LinkedIn skills next week. 😂
 
 ---
 
@@ -315,9 +313,9 @@ Update your LinkedIn skills next week. 😂
 
 Recognized for problem-solving, delivering quick solutions and maintaining high system availability.
 
-Awards are great.
-
-But seeing all CI/CD pipelines green is a different kind of happiness. 💚😂
+> Awards are great.
+>
+> But seeing all CI/CD pipelines green is a different kind of happiness. 💚😂
 
 ---
 
@@ -347,9 +345,9 @@ DSIT, Trichy, Tamil Nadu | 2021
 
 **Tools:** Jira, Confluence, Postman, SoapUI, AutoSys
 
-My technology stack keeps growing.
-
-My debugging time keeps growing with it. 😅
+> My technology stack keeps growing.
+>
+> My debugging time keeps growing with it. 😅
 
 ---
 
@@ -373,4 +371,4 @@ Always interested in connecting with people working on:
 
 Building AI systems to solve real-world problems.
 
-Still waiting for an AI agent that can debug my code, fix the issue and not introduce five new bugs. 🤖😂
+> Still waiting for an AI agent that can debug my code, fix the issue and not introduce five new bugs. 🤖😂
